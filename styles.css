@@ -1,0 +1,139 @@
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.topcontainer{
+    line-height: 2;
+    background-color:#EAF6F6 ;
+    position: relative;
+    padding-top: 100px;
+}
+.midle-container{
+    margin: 100px 0;
+                
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+
+}
+a{
+    color: #11999e;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+p{
+    line-height: 2;
+}
+h1{
+  font-size: 5.625rem;
+   margin-top: 50px auto 0 auto;
+   font-family: 'Sacramento', cursive;
+   color: #66BFBF;
+}
+h2{
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    padding-bottom: 10px;
+
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.botoom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+    
+}
+.footer-link{
+    color:#11999E ;
+}
+ 
+    
+
+.face{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.programmer{
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin:100px  auto 100px  ;
+    text-align: left;
+    line-height: 2;
+}
+.circle{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chillies{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+hr{
+    border:6px dotted #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.conme{
+    width: 40%;
+    margin:40px auto 60px;
+}
+.contactm{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.btn{
+    color: rgb(230, 230, 230);
+font-size: 20px;
+padding: 20px;
+text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
+background: rgb(210, 20, 20);
+background: -moz-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(57, 165, 255) 70%);
+background: -webkit-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(57, 165, 255) 70%);
+background: -o-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(57, 165, 255) 70%);
+background: -ms-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(57, 165, 255) 70%);
+background: linear-gradient(0deg, rgb(210, 20, 20) 30%, rgb(57, 165, 255) 70%);
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+
+}
